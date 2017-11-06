@@ -1,6 +1,4 @@
 
-
- 
  #Solution 3
 puts "Kindly Enter your score"
 score=gets.chomp.to_i 
