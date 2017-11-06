@@ -19,6 +19,9 @@ def evaluate_grade(score)
    end
  end
  evaluate_grade(1000)
+
+
+
  
  #Solution 2
  puts "Kindly Enter your score"
@@ -38,9 +41,11 @@ score=gets.chomp.to_i
    else 
      puts "YOU FAILED"
  end
+
+
+
  
  #Solution 3
- 
 puts "Kindly Enter your score"
 score=gets.chomp.to_i 
    if score < 0 || score>100
