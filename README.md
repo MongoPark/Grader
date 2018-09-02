@@ -6,16 +6,14 @@ A simple Vue App to fetch Github repos of given users and render the readme of r
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
 
-<p align="center"> :collision:
-  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a>
-   :sparkling_heart:
+<p align="center"> :collision: :collision: :collision:
+  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a>:sparkling_heart: :sparkling_heart: :sparkling_heart:
+   
   </p>
   
   
 <p align="center">
-  
 [vue-cli](https://github.com/vuejs/vue-cli) and [vuex](https://github.com/vuejs/vuex).
-
 </p>
   
 
