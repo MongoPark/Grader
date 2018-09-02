@@ -13,7 +13,7 @@ A simple Vue App to fetch Github repos of given users and render the readme of r
   
   
 <p align="center">
-[vue-cli](https://github.com/vuejs/vue-cli) and [vuex](https://github.com/vuejs/vuex).
+https://github.com/vuejs/vue-cli and https://github.com/vuejs/vuex .
 </p>
   
 
